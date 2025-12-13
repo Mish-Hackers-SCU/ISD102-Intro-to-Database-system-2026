@@ -10,7 +10,7 @@
 
 > [MySQL Basics](https://www.w3schools.com/mysql/default.asp)
 
-> [SQL book]()
+> [SQL book](SQL_for_Dummies.pdf)
 ------
 
 # 📖 Introduction to SQL
